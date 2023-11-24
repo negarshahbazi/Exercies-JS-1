@@ -4,4 +4,4 @@ function carré(){
     return nombre*nombre;
 }
 
-console.log(carré(nombre));
+alert(carré(nombre));
